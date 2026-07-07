@@ -1,0 +1,41 @@
+product_id,name,category,description,price
+1,Wireless Earbuds Pro,Electronics,Noise-cancelling wireless earbuds with 30hr battery life,149.03
+2,Smart Watch Series 5,Electronics,Fitness tracking smartwatch with heart rate monitor,163.57
+3,4K Action Camera,Electronics,Waterproof action camera with image stabilization,207.0
+4,Portable SSD 1TB,Electronics,High-speed external solid state drive,80.16
+5,Mechanical Keyboard,Electronics,RGB backlit mechanical keyboard with hot-swap switches,168.19
+6,Wireless Charging Pad,Electronics,Fast wireless charger compatible with all Qi devices,224.34
+7,Bluetooth Speaker,Electronics,Portable waterproof speaker with 360-degree sound,228.57
+8,USB-C Hub 7-in-1,Electronics,"Multiport adapter with HDMI, USB, and SD card reader",58.83
+9,Gaming Mouse,Electronics,High-DPI gaming mouse with programmable buttons,168.16
+10,Webcam 1080p,Electronics,HD webcam with built-in privacy cover,160.02
+11,Atomic Habits,Books,A guide to building good habits and breaking bad ones,133.3
+12,Deep Work,Books,Rules for focused success in a distracted world,242.06
+13,The Pragmatic Programmer,Books,Classic guide to software craftsmanship,139.14
+14,Clean Code,Books,A handbook of agile software craftsmanship,119.63
+15,Sapiens,Books,A brief history of humankind,236.74
+16,Thinking Fast and Slow,Books,Exploring the two systems that drive human thought,164.37
+17,The Lean Startup,Books,How to build a successful startup using validated learning,85.8
+18,Designing Data-Intensive Applications,Books,"Guide to building reliable, scalable systems",87.68
+19,Educated,Books,A memoir about the transformative power of education,131.58
+20,The Pomodoro Technique,Books,Time management method using focused work intervals,27.36
+21,Robot Vacuum Cleaner,Home,Smart robot vacuum with app control and mapping,157.78
+22,Air Purifier HEPA,Home,True HEPA air purifier for large rooms,187.93
+23,Stand Mixer,Home,Professional-grade stand mixer for baking,115.14
+24,Electric Kettle,Home,Fast-boil electric kettle with temperature control,213.95
+25,Memory Foam Pillow,Home,Ergonomic memory foam pillow for neck support,233.08
+26,LED Desk Lamp,Home,Adjustable LED lamp with multiple brightness settings,145.57
+27,Coffee Maker Deluxe,Home,Programmable drip coffee maker with thermal carafe,175.12
+28,Weighted Blanket,Home,Cooling weighted blanket for better sleep,42.56
+29,Smart Thermostat,Home,WiFi-enabled thermostat with energy-saving schedules,28.16
+30,Air Fryer XL,Home,Large capacity air fryer with digital touchscreen,245.31
+31,Yoga Mat Premium,Sports,Non-slip extra-thick yoga mat with carrying strap,81.84
+32,Adjustable Dumbbells,Sports,Space-saving adjustable dumbbell set,65.14
+33,Running Shoes,Sports,Lightweight breathable running shoes,225.72
+34,Resistance Bands Set,Sports,Set of 5 resistance bands for home workouts,191.21
+35,Foam Roller,Sports,High-density foam roller for muscle recovery,43.95
+36,Water Bottle Insulated,Sports,Vacuum-insulated stainless steel water bottle,90.59
+37,Fitness Tracker Band,Sports,Slim fitness band with sleep tracking,72.03
+38,Jump Rope Speed,Sports,Adjustable speed jump rope for cardio training,79.09
+39,Camping Tent 4-Person,Sports,Waterproof tent for family camping trips,16.5
+40,Hiking Backpack 40L,Sports,Durable hiking backpack with hydration compatibility,138.3
