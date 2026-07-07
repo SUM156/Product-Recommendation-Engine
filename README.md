@@ -181,6 +181,9 @@ Method: popularity_cold_start
 
 The cold-start user correctly triggered the popularity fallback with zero errors — the hybrid design working exactly as intended, on a genuinely never-rated user.
 
+<img width="1149" height="633" alt="Screenshot 2026-07-07 102335" src="https://github.com/user-attachments/assets/d69d6303-4c3e-40a0-b04f-b439b6c6582b" />
+<img width="1015" height="665" alt="Screenshot 2026-07-07 102515" src="https://github.com/user-attachments/assets/098c38c5-34bb-404d-838e-6800866e0c0b" />
+
 ## 🗺️ Future Roadmap
 
 - [ ] Matrix factorization (SVD/ALS) for better sparse-data performance at scale
